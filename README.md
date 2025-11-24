@@ -101,7 +101,7 @@ Final data is pretty-printed with `serde_json::Serializer` + `PrettyFormatter`
 
 ------------------------------------------------------------------------
 
-## 🧪 Testing --- *Comming soon*
+## 🧪 Testing --- *Coming soon*
 ```shell
 cargo test
 ```
